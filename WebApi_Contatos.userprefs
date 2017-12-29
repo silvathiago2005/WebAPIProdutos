@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{87DA38C4-43C7-4B23-B818-6E5AE4C17907}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi_Contatos/Controllers/ContatosController.cs">
+    <Files>
+      <File FileName="WebApi_Contatos/ContatosRepositorio.cs" Line="10" Column="44" />
+      <File FileName="WebApi_Contatos/Controllers/ContatosController.cs" Line="52" Column="1" />
+      <File FileName="WebApi_Contatos/Startup.cs" Line="35" Column="128" />
+      <File FileName="WebApi_Contatos/Program.cs" Line="24" Column="22" />
+      <File FileName="WebApi_Contatos/Models/IcontatosRepositorio.cs" Line="12" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/Controllers/ContatosController.cs" relfile="WebApi_Contatos/Controllers/ContatosController.cs" line="51" column="1" />
+      <Breakpoint file="/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/Controllers/ContatosController.cs" relfile="WebApi_Contatos/Controllers/ContatosController.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebApi__Contatos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

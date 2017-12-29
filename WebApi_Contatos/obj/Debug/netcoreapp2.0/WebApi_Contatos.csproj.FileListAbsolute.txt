@@ -1,0 +1,12 @@
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/obj/Debug/netcoreapp2.0/WebApi_Contatos.csprojResolveAssemblyReference.cache
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/obj/Debug/netcoreapp2.0/WebApi_Contatos.csproj.CoreCompileInputs.cache
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/obj/Debug/netcoreapp2.0/WebApi_Contatos.AssemblyInfoInputs.cache
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/obj/Debug/netcoreapp2.0/WebApi_Contatos.AssemblyInfo.cs
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/bin/Debug/netcoreapp2.0/WebApi_Contatos.deps.json
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/bin/Debug/netcoreapp2.0/WebApi_Contatos.runtimeconfig.json
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/bin/Debug/netcoreapp2.0/WebApi_Contatos.runtimeconfig.dev.json
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/bin/Debug/netcoreapp2.0/WebApi_Contatos.dll
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/bin/Debug/netcoreapp2.0/WebApi_Contatos.pdb
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/obj/Debug/netcoreapp2.0/WebApi_Contatos.dll
+/Users/thiagodasilva/Projects/WebApi_Contatos/WebApi_Contatos/obj/Debug/netcoreapp2.0/WebApi_Contatos.pdb
